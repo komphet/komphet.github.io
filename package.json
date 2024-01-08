@@ -1,0 +1,57 @@
+{
+  "name": "komphet.github.io",
+  "version": "1.0.0",
+  "description": "Discover Komphet, a proficient technology solution consultant specializing in software development, cloud computing, and digital transformation for businesses across various industries. Explore Komphet's expertise in devising innovative IT strategies, implementing robust software solutions, and delivering successful projects. Learn how Komphet leverages technology to drive business growth, enhance efficiency, and achieve strategic objectives.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/komphet/komphet.github.io.git",
+  "keywords": [
+    "komphet",
+    "meesab",
+    "komphet",
+    "meesab",
+    "คมเพชร",
+    "มีทรัพย์",
+    "คมเพชร",
+    "มีทรัพย์",
+    "komphet.me",
+    "technology",
+    "consultant",
+    "software",
+    "development",
+    "cloud",
+    "computing",
+    "digital",
+    "transformation",
+    "IT",
+    "strategy",
+    "business",
+    "solutions",
+    "innovation",
+    "in",
+    "technology",
+    "project",
+    "implementation",
+    "tech",
+    "advisor",
+    "technology",
+    "expert"
+  ],
+  "author": "Komphet Meesab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komphet/komphet.github.io/issues"
+  },
+  "homepage": "https://github.com/komphet/komphet.github.io#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-html": "^7.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-prettier": "^5.1.2",
+    "prettier": "^3.1.1"
+  }
+}
